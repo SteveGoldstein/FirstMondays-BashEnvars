@@ -8,9 +8,6 @@
    echo
    echo
 
-### don't look at this yet ###
-   ##echo "\$HOME = $HOME ..."
-
 
 exit
 
